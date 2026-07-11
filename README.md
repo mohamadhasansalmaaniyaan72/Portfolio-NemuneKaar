@@ -16,7 +16,7 @@
     
    <tr>
        <td colspan='2'>
-             <p align='center'><a href="https://github.com/mohamadhasansalmaaniyaan72/Questions-CHallenges/issues"><kbd> <br> Questions & CHallenges <br> </kbd></a></p>
+             <p align='center'><a href="https://github.com/mohamadhasansalmaaniyaan72/Questions-CHallenges"><kbd> <br> Questions & CHallenges <br> </kbd></a></p>
        </td>
    </tr>
 
