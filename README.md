@@ -73,6 +73,18 @@
              <p align='center'><a href="https://wa.me/989130226121" target="_blank"><kbd> <br> WhatsApp <br> </kbd></a></p>
        </td>
    </tr>
+
+   <tr>
+       <td colspan='2'>
+         <p align='center'><a href="https://twitter.com/salmaaniyaan72" target="_blank"><kbd> <br> Twitter <br> </kbd></a></p>
+       </td>
+   </tr>
+
+   <tr>
+       <td colspan='2'>
+             <p align='center'><a href="https://www.tiktok.com/@mohamadhasansalmaaniyaan?_r=1&_t=ZS-99223QPmheR" target="_blank"><kbd> Tiktok <br> </kbd></a></p>
+       </td>
+   </tr>
    
    <tr>
        <td colspan='2'>
@@ -83,12 +95,6 @@
    <tr>
        <td colspan='2'>
              <p align='center'><a href="mailto:mh.salmanian@yahoo.com" target="_blank"><kbd> <br> Yahoo <br> </kbd></a></p>
-       </td>
-   </tr>
-   
-   <tr>
-       <td colspan='2'>
-         <p align='center'><a href="https://twitter.com/salmaaniyaan72" target="_blank"><kbd> <br> Twitter <br> </kbd></a></p>
        </td>
    </tr>
    
