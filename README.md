@@ -10,7 +10,7 @@
     
    <tr>
         <td colspan='2'>
-             <p align='center'><a href="https://github.com/mohamadhasansalmaaniyaan72/Portfolio-Nemune-Kaar-haa-/releases/download/main/Portfolio.pdf"><kbd> <br> Portfolio (Nemune Kaar haa) <br> </kbd></a></p>
+             <p align='center'><a href="https://github.com/mohamadhasansalmaaniyaan72/Portfolio-NemuneKaar/releases/download/assets/Portfolio.pdf"><kbd> <br> Portfolio (Nemune Kaar haa) <br> </kbd></a></p>
         </td>
    </tr>
     
